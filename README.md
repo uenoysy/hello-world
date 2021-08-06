@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+
+
+Hi, I’m @uenoysy
+I’m interested in github
+I’m currently learning guthub
